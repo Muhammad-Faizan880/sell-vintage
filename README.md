@@ -1,9 +1,12 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-## Getting Started
+# Project Name
 
+This project is built with **Next 15 + Tailwind CSS**.
 First, run the development server:
+npm install
 
+## Getting Started
 ```bash
 npm run dev
 # or
@@ -13,6 +16,9 @@ pnpm dev
 # or
 bun dev
 ```
+# clone from this repo:
+https://github.com/Muhammad-Faizan880/sell-vintage.git
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
