@@ -1,9 +1,12 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 # Project Name
+Sell-Vintage
 
+# Tech Stack
 This project is built with **Next 15 + Tailwind CSS**.
-First, run the development server:
+
+# For packages installation command
 npm install
 
 ## Getting Started
@@ -16,6 +19,14 @@ pnpm dev
 # or
 bun dev
 ```
+
+## 📂 Project Structure
+/src
+└── /app
+├── 📦 components → Reusable UI components
+├── 📑 views → Screens / pages
+└── 🖼️ assets → Images, icons, static files
+
 # clone from this repo:
 https://github.com/Muhammad-Faizan880/sell-vintage.git
 
