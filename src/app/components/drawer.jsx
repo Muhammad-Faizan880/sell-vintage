@@ -6,12 +6,12 @@ export default function Drawer({ isOpen, onClose }) {
       {/* Backdrop / Overlay */}
       <div
         onClick={onClose}
-        className={`fixed inset-0 z-30 transition-opacity duration-300 
-        ${
-          isOpen
-            ? "bg-black/10 backdrop-blur-sm opacity-30"
-            : "opacity-0 pointer-events-none"
-        }`}
+        // className={`fixed inset-0 z-30 transition-opacity duration-300 
+        // ${
+        //   isOpen
+        //     ? "bg-black/10 backdrop-blur-sm opacity-30"
+        //     : "opacity-0 pointer-events-none"
+        // }`}
       ></div>
 
       {/* Drawer */}
